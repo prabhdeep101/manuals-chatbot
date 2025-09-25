@@ -1,0 +1,4 @@
+openai==1.108.1
+python-dotenv==1.0.1
+streamlit==1.38.0
+azure-cognitiveservices-speech==1.38.0
